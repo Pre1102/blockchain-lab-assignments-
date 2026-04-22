@@ -2,19 +2,19 @@
 
 ## 👨‍🎓 Student Details
 
-* **Name:** Pruthviraj Desale
-* **Roll Number:** 123B1B056
+* **Name:** Prerna Shirsath
+* **Roll Number:** 123B1B062
 * **Course:** Blockchain Technology
 
 ---
 
-# 📌 Overview
+# Overview
 
 This repository contains 5 practical assignments demonstrating core blockchain concepts including smart contract development, deployment, frontend interaction, IPFS integration, and DAO implementation.
 
 ---
 
-# 🛠️ Tech Stack Used
+# Tech Stack Used
 
 * Solidity (Smart Contracts)
 * Hardhat (Development & Deployment)
@@ -25,7 +25,7 @@ This repository contains 5 practical assignments demonstrating core blockchain c
 
 ---
 
-# 📂 Assignments Description
+#  Assignments Description
 
 ---
 
@@ -40,7 +40,7 @@ This repository contains 5 practical assignments demonstrating core blockchain c
   * Retrieve data
 * Deployed contract using Remix IDE
 
-### 📌 Key Learning:
+###  Key Learning:
 
 * Understanding of smart contract structure
 * Writing functions in Solidity
@@ -57,7 +57,7 @@ This repository contains 5 practical assignments demonstrating core blockchain c
 * Used test MATIC from faucet
 * Verified transaction on Polygon explorer
 
-### 📌 Key Learning:
+###  Key Learning:
 
 * Working with test networks
 * Gas fees and transactions
@@ -77,7 +77,7 @@ This repository contains 5 practical assignments demonstrating core blockchain c
   * Send transactions
   * Retrieve stored data
 
-### 📌 Key Learning:
+###  Key Learning:
 
 * Connecting frontend with blockchain
 * Wallet interaction using MetaMask
@@ -94,13 +94,13 @@ This repository contains 5 practical assignments demonstrating core blockchain c
 * Retrieved file using IPFS gateway
 * Verified file availability using public link
 
-### 📌 Example CID:
+###  Example CID:
 
 ```
 QmdyGVpYEibCV9kLiPN7DhDd6wRhL676ejFfngms9WGMy
 ```
 
-### 📌 Key Learning:
+###  Key Learning:
 
 * Decentralized file storage
 * How IPFS works
@@ -110,7 +110,7 @@ QmdyGVpYEibCV9kLiPN7DhDd6wRhL676ejFfngms9WGMy
 
 ## 🔹 Assignment 5: DAO Smart Contract
 
-### ✅ What was done:
+###  What was done:
 
 * Developed a DAO smart contract with:
 
@@ -119,14 +119,14 @@ QmdyGVpYEibCV9kLiPN7DhDd6wRhL676ejFfngms9WGMy
   * Proposal execution
 * Deployed and tested using Remix + MetaMask
 
-### 📌 Workflow:
+###  Workflow:
 
 1. User creates proposal
 2. Users vote on proposal
 3. Votes are counted
 4. Proposal is executed
 
-### 📌 Key Learning:
+###  Key Learning:
 
 * Governance using blockchain
 * Voting mechanisms in smart contracts
@@ -134,9 +134,9 @@ QmdyGVpYEibCV9kLiPN7DhDd6wRhL676ejFfngms9WGMy
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
-## 🔧 Common Setup
+##  Common Setup
 
 ```bash
 npm install
@@ -144,7 +144,7 @@ npm install
 
 ---
 
-## ▶️ Assignment 1
+##  Assignment 1
 
 ```bash
 cd assignment-1
@@ -153,7 +153,7 @@ npx hardhat compile
 
 ---
 
-## ▶️ Assignment 2
+##  Assignment 2
 
 ```bash
 cd assignment-2
@@ -162,7 +162,7 @@ npx hardhat run scripts/deploy.js --network amoy
 
 ---
 
-## ▶️ Assignment 3
+##  Assignment 3
 
 ```bash
 cd assignment-3
@@ -173,7 +173,7 @@ Open: http://localhost:8080
 
 ---
 
-## ▶️ Assignment 4
+##  Assignment 4
 
 ```bash
 cd assignment-4/ipfs-code
@@ -182,7 +182,7 @@ node upload.js
 
 ---
 
-## ▶️ Assignment 5
+##  Assignment 5
 
 ```bash
 cd assignment-5
@@ -191,7 +191,7 @@ npx hardhat compile
 
 ---
 
-# 🌐 Polygon Amoy Testnet Details
+#  Polygon Amoy Testnet Details
 
 * RPC URL: https://rpc-amoy.polygon.technology/
 * Chain ID: 80002
@@ -200,7 +200,7 @@ npx hardhat compile
 
 ---
 
-# 📸 Screenshot Checklist
+#  Screenshot Checklist
 
 Each assignment contains a `screenshots/` folder with:
 
@@ -212,7 +212,7 @@ Each assignment contains a `screenshots/` folder with:
 
 ---
 
-# ✅ Conclusion
+#  Conclusion
 
 This project demonstrates end-to-end blockchain development including smart contracts, deployment, frontend integration, decentralized storage, and DAO implementation.
 
